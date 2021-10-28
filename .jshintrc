@@ -1,0 +1,28 @@
+{
+    "browser": false,
+    "node": false,
+    "undef": false,
+    "unused": true,
+    "esversion": 5,
+    "withstmt": true,
+    "varstmt": false,
+    "camelcase": true,
+    "asi": false,
+    "quotmark": "double",
+    "nocomma": true,
+    "trailingcomma": false,
+    "latedef": true,
+    "noarg": true,
+    "globals": {
+        "outcome": true,
+        "logger": true,
+        "sharedState": true,
+        "org": true,
+        "console": false,
+        "window": false,
+        "process": false,
+        "httpClient": true
+    },
+    "moz": true,
+    "rhino": true
+}
